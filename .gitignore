@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+venv
+.idea
+coolsite/settings_local.py
+media
+coolsite/static
